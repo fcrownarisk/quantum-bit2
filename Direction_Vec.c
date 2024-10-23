@@ -44,4 +44,5 @@ void Switch(){
 
     case5:"Minus +- Add";
     case6:"Add +- Minus";    
+    return 1,2,3,4,5,6;
 }
